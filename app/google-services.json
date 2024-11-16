@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468308470653",
+    "project_id": "saifbapp-a623c",
+    "storage_bucket": "saifbapp-a623c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468308470653:android:a7c9dd40162eae79a67a14",
+        "android_client_info": {
+          "package_name": "com.example.saifb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPgrr0MGu1hGzJbpe85aGJvxWa6WvGpAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
